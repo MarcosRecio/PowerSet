@@ -1,6 +1,6 @@
-# PowerSet
+# Powerset
 
-PowerSet is a set of 3 functions made in Python to work with lists as powerlists founded in mathematical powersets.
+Powerset is a set of 3 functions made in Python to work with lists as powerlists founded in mathematical powersets.
 
 Powerset is a module to work with lists and create powersets of the lists, if you want your list to be passed as a set make sure you dont have duplicates making list(set(originalList)) to your originalList.
 
